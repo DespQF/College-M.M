@@ -1,4 +1,4 @@
-* Domclick Parser
+* Domclick Parser(Modified by writing to the CSV table)
 #+begin_quote
 Парсинг домклик через приватный api [[https://trashbox.ru/link/domclick-android][приложения]]
 #+end_quote
