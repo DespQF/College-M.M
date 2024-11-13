@@ -1,0 +1,348 @@
+{
+  "success": true,
+  "pagination": {
+    "limit": 1,
+    "offset": 11,
+    "total": 25516
+  },
+  "result": {
+    "items": [
+      {
+        "ipoteka_rate": 24.9,
+        "offer_type": "flat",
+        "payment_order_id": 2,
+        "category": "living",
+        "chat_available": true,
+        "deal_type": "sale",
+        "object_info": {
+          "is_apartment": false,
+          "floor": 4,
+          "rooms": 2,
+          "area": 50.9
+        },
+        "seo": {
+          "subdomain": "mytishhi"
+        },
+        "profit_badge": "normal",
+        "tariff_options": {
+          "name": "top",
+          "display_name": "ТОП",
+          "sort": 2,
+          "big_card": true,
+          "pin_color": true
+        },
+        "is_auction": false,
+        "assignment_sale": false,
+        "pessimization": {
+          "pessimization_type": null,
+          "pessimized": false
+        },
+        "id": 2061206346,
+        "description": "Арт. 73482612 Увaжаeмыe пoкупaтели, Вы можетe приoбрeсти эту квaртиру в ипотеку с пpoцeнтнoй cтавкой 14,75% и пеpвoначaльным взнoсом 15%! \n \nВашему вниманию предлагается просторная квартира с удачной\nпланировкой, просторным коридором.\n  \nМножество сетевых магазинов, аптеки, салоны красоты, детские\nспортивные и развивающие кружки в пешей доступности. \n \nТихий, спокойный двор, прекрасные соседи, чистый подъезд без\nпосторонних запахов.\n \nСвободная продажа! Без Долгов и обременений! Помощь в одобрении\nипотеки. Показ в удобное для Вас время! \n \nЗвоните и записывайтесь на просмотр\n  \nО квартире:\nОбщая площадь квартиры – 51 квадратных метров;\nЖилая площадь – 27,2 квадратных метров;\nДве изолированные комнаты 15 и 12,3 м². \nПродается с мебелью и техникой, что позволит вам сразу заехать и\nжить.\nБлагоустроенный зеленый двор с детской площадкой, где вы можете не\nбеспокоится о безопасности детей.\n \nИнфраструктура:\nРайон оснащен всем необходимым для комфортного проживания. \nЛицей №34 в 6 мин ходьбы, несколько школ в 10 мин ходьбы от дома,\nдетский сад в 5 минутах пешком.\nВсе объекты социального назначения находятся в пешей доступности. Поликлиники детская и взрослая, общеобразовательная школа, детские сады, ледовая Арена Мытищи, Термы, Экобазар, 4Dаily, ТЦ Июнь.\nРазличные магазины, кафе, химчистка, салоны красоты, отделение банка, компании сферы услуг и многое другое.\nДля автовладельцев во дворе всегда есть место для автомобиля.\n \nТранспортная\nдоступность:\nКомфортное расположение района по отношению к главным транспортным\nартериям, упрощает дорогу как в Москву, так и в область на общественном\nтранспорте.\n15 мин нa aвтoмобилe, 24 мин на общественном транспорте до\nстанции Мытищи, 20 мин до станции м. Медведково на автомобиле, 25 мин на\nэлектричке до Комсомольской площади с возможностью пересадки на метро. В\n2025-2027 г электрички заменят на наземное метро (МЦД5)\n \nО собственниках:\nПрямая продажа, обременений нет. Гарантия юридической чистоты\nсделки от компании!\nОдобрение ипотеки по сниженной процентной ставке от ведущих Банков, а так же: при одобрении заявки через Самолет Плюс - Вы получите БЕСПЛАТНОЕ дальнейшее рефинансирование под более выгодную процентную ставку.",
+        "updated_dt": "2024-11-13T15:35:55.934609+00:00",
+        "source": "feed",
+        "discount_status": {
+          "status": "discount_received",
+          "value": 0.3
+        },
+        "address": {
+          "id": 393108,
+          "kind": "house",
+          "guid": "76773ad2-b763-48f4-881d-7bb8f372c235",
+          "name": "улица Юбилейная, 33",
+          "display_name": "Россия, Московская область, Мытищи, 6-й м-н, улица Юбилейная, 33",
+          "parent_id": 300002134,
+          "position": {
+            "lat": 55.90466,
+            "lon": 37.707767
+          },
+          "locality": {
+            "id": 7305,
+            "kind": "locality",
+            "guid": "655e71a4-2409-42f0-b0ea-bb554ac865e8",
+            "name": "Мытищи",
+            "display_name": "Россия, Московская область, Мытищи",
+            "parent_id": 7299
+          },
+          "subways": [
+            {
+              "guid": "2c6d571f-83d4-4c1d-b6f8-a15ae03bd025",
+              "distance": 4.38,
+              "display_name": "Медведково",
+              "is_constructed": true,
+              "meta": {
+                "line_name": "Калужско-Рижская",
+                "line_color": "F07E24"
+              },
+              "time_on_foot": 53.0,
+              "time_on_public_transport": 35.0
+            },
+            {
+              "guid": "f4dabe09-41c6-4b6b-a1c3-53c39da72152",
+              "distance": 5.58,
+              "display_name": "Бабушкинская",
+              "is_constructed": true,
+              "meta": {
+                "line_name": "Калужско-Рижская",
+                "line_color": "F07E24"
+              },
+              "time_on_foot": 67.0,
+              "time_on_public_transport": 41.0
+            },
+            {
+              "guid": "b14ae58b-715a-40b6-8f5d-d9fc950f5c2a",
+              "distance": 7.46,
+              "display_name": "Свиблово",
+              "is_constructed": true,
+              "meta": {
+                "line_name": "Калужско-Рижская",
+                "line_color": "F07E24"
+              },
+              "time_on_foot": 90.0,
+              "time_on_public_transport": 45.0
+            },
+            {
+              "guid": "e46586e1-06a6-44ad-adf1-d03471046dc9",
+              "distance": 8.39,
+              "display_name": "Бибирево",
+              "is_constructed": true,
+              "meta": {
+                "line_name": "Серпуховско-Тимирязевская",
+                "line_color": "ADACAC"
+              },
+              "time_on_foot": 101.0,
+              "time_on_public_transport": 49.0
+            },
+            {
+              "guid": "9376fc62-7d95-433d-bc35-3dc8406231f4",
+              "distance": 8.79,
+              "display_name": "Алтуфьево",
+              "is_constructed": true,
+              "meta": {
+                "line_name": "Серпуховско-Тимирязевская",
+                "line_color": "ADACAC"
+              },
+              "time_on_foot": 105.0,
+              "time_on_public_transport": 51.0
+            },
+            {
+              "guid": "51e0b4ee-4e0d-4b09-878f-38d9fd68696b",
+              "distance": 8.84,
+              "display_name": "станция Ростокино",
+              "is_constructed": true,
+              "meta": {
+                "line_name": "Московское центральное кольцо",
+                "line_color": "F9BCD1"
+              },
+              "time_on_foot": 106.0,
+              "time_on_public_transport": 41.0
+            }
+          ],
+          "info": {
+            "timezone": "Europe/Moscow",
+            "timezone_offset": 3
+          },
+          "short_display_name": "Московская область, Мытищи, 6-й м-н, улица Юбилейная, 33"
+        },
+        "is_placement_paid": false,
+        "monthly_payment": 133317,
+        "last_price_history_state": "less",
+        "has_advance_payment": false,
+        "price_info": {
+          "price": 7999000,
+          "square_price": 157151,
+          "mortgage_price": 57600,
+          "price_for_year": 95988000.0,
+          "square_price_for_year": 1885815.3599999999
+        },
+        "published_dt": "2024-09-09T11:15:43.638508+00:00",
+        "status": 2,
+        "seo_info": {
+          "subways": [
+            {
+              "subdomain": "msk",
+              "seo_uri": "/svao/severnoe-medvedkovo/metro-medvedkovo",
+              "guid": "2c6d571f-83d4-4c1d-b6f8-a15ae03bd025",
+              "title": "Медведково"
+            },
+            {
+              "subdomain": "msk",
+              "seo_uri": "/svao/babushkinskij/metro-babushkinskaya",
+              "guid": "f4dabe09-41c6-4b6b-a1c3-53c39da72152",
+              "title": "Бабушкинская"
+            },
+            {
+              "subdomain": "msk",
+              "seo_uri": "/svao/sviblovo/metro-sviblovo",
+              "guid": "b14ae58b-715a-40b6-8f5d-d9fc950f5c2a",
+              "title": "Свиблово"
+            },
+            {
+              "subdomain": "msk",
+              "seo_uri": "/metro-altufevo",
+              "guid": "9376fc62-7d95-433d-bc35-3dc8406231f4",
+              "title": "Алтуфьево"
+            },
+            {
+              "subdomain": "msk",
+              "seo_uri": "/metro-bibirevo",
+              "guid": "e46586e1-06a6-44ad-adf1-d03471046dc9",
+              "title": "Бибирево"
+            },
+            {
+              "subdomain": "msk",
+              "seo_uri": "/stanciya-rostokino",
+              "guid": "51e0b4ee-4e0d-4b09-878f-38d9fd68696b",
+              "title": "Ростокино"
+            }
+          ],
+          "display_name_parts": [
+            {
+              "subdomain": "msk",
+              "seo_uri": "/moskovskaya-oblast",
+              "guid": "9930cc20-32c6-4f6f-a55e-cd67086c5171",
+              "title": "Московская область"
+            },
+            {
+              "subdomain": "msk",
+              "seo_uri": "/moskovskaya-oblast/mytishi-gorodskoj-okrug/dachno-potrebitelskij-kooperativ-solnechnoe/mytishhi",
+              "guid": "655e71a4-2409-42f0-b0ea-bb554ac865e8",
+              "title": "Мытищи"
+            },
+            {
+              "subdomain": "msk",
+              "seo_uri": "/moskovskaya-oblast/mytishi-gorodskoj-okrug/mytishhi/6-j",
+              "guid": "6c30f7a4-e700-4e0b-a09b-d5a5fac15925",
+              "title": "6-й"
+            },
+            {
+              "subdomain": "mytishhi",
+              "seo_uri": "/building/6-j--33",
+              "guid": "76773ad2-b763-48f4-881d-7bb8f372c235",
+              "title": "33",
+              "is_building": true
+            }
+          ]
+        },
+        "seller": {
+          "agent": {
+            "achievements": {
+              "SER": false,
+              "SBR": true,
+              "OFFERS_SALE_COUNT": false,
+              "CLIENT_REVIEW": false,
+              "NON_MORTGAGE_DEALS": false
+            },
+            "person": {
+              "offers_sale_count": 1,
+              "phone": "+7 969 *** ** 54",
+              "patronymic": "Евгеньевна",
+              "id": 1007379933,
+              "firstname": "Виктория",
+              "created_dt": "2023-03-16T07:51:16.698000+00:00",
+              "fullname": "Брежнева Виктория Евгеньевна",
+              "lastname": "Брежнева",
+              "photo_url": "https://img.dmclk.ru/s200x200q80/partnerhub/avatars/a8/19/4b3f5d6f-4d92-43ce-9600-d2592bbfeeca.png",
+              "sbol_verified_state": "verified_none",
+              "cas_id": 29720021
+            },
+            "phone": "+7 967 *** ** 15",
+            "full_name": "Брежнева Виктория",
+            "cas_id": 29720021,
+            "is_agent": true,
+            "is_sbol_verified": false,
+            "show_original_phone": true
+          },
+          "company": {
+            "id": 273307,
+            "legal_name": "ООО \"САМОЛЕТ ПЛЮС МЫТИЩИ\"",
+            "trade_name": "Самолет Плюс-МЫТИЩИ",
+            "logo": "/s200x200q80/partnerhub/logos/6e/83/22e6c862-4015-425b-a1a1-2d033de3093e.png",
+            "phone": "+7 926 *** ** 46",
+            "is_virtual": false,
+            "is_showcase": true,
+            "holding": {
+              "name": "Самолет Плюс"
+            },
+            "name": "Самолет Плюс-МЫТИЩИ",
+            "display_name": "Самолет Плюс",
+            "one_person_business": false
+          }
+        },
+        "photos": [
+          {
+            "url": "/vitrina/b6/be/b6be786fdc2264efa62ff67033af1a1c860c3a3d.jpg"
+          },
+          {
+            "url": "/vitrina/f5/d1/f5d163a87796fa812f529119ca6e09c58b1be499.jpg"
+          },
+          {
+            "url": "/vitrina/ee/12/ee12f456a79f85a256c483a6a02d566f16ef6894.jpg"
+          },
+          {
+            "url": "/vitrina/70/37/7037712a7a56611e4a441377a03717ff5c409082.jpg"
+          },
+          {
+            "url": "/vitrina/e4/6b/e46bda522d20a5675dc0473d1d3d3a0fa34ecdcb.jpg"
+          },
+          {
+            "url": "/vitrina/f4/bb/f4bbfbee7ca3150b36e757fa36696c2c6782d0c7.jpg"
+          },
+          {
+            "url": "/vitrina/c7/1f/c71f91af00cf8535b18351bab5b044cfc084a9e6.jpg"
+          },
+          {
+            "url": "/vitrina/36/c1/36c1831b72aa075eae0259dc208715a711232f37.jpg"
+          },
+          {
+            "url": "/vitrina/93/1d/931de90f855a38c10d81e05ec0227142b3d6edb3.jpg"
+          },
+          {
+            "url": "/vitrina/1e/2e/1e2e18209695a5f9abe91960933137500fdd74e3.jpg"
+          },
+          {
+            "url": "/vitrina/a6/36/a636163617f52f0d2ab8d391607e2d0be9d2bf0e.jpg"
+          },
+          {
+            "url": "/vitrina/1b/f6/1bf64f69d4adecfcb8e32734d4fceb62b0294cdb.jpg"
+          },
+          {
+            "url": "/vitrina/ce/82/ce821b11ea3313c418185081de67e56196d22c9e.jpg"
+          },
+          {
+            "url": "/vitrina/b1/a6/b1a65eafcbf3d02da618b18047a65e06a73eb980.jpg"
+          },
+          {
+            "url": "/vitrina/bc/d5/bcd5b63c523449124df7388c738778dce4d82945.jpg"
+          },
+          {
+            "url": "/vitrina/69/c5/69c52720400c27a0cd5c59e753f13d31acc4bc8d.jpg"
+          },
+          {
+            "url": "/vitrina/85/0d/850d8887cd8b2eb57c758aa3b6147c806ba1f3d3.jpg",
+            "class_name": "Facade"
+          },
+          {
+            "url": "/vitrina/39/d1/39d110b489c35cc968c6507a9b7595ac2f417489.jpg"
+          },
+          {
+            "url": "/vitrina/f3/91/f39117f555c4208e4227dad5cf2b7c78a141b9e0.jpg"
+          },
+          {
+            "url": "/vitrina/42/65/4265b08ade12de9113407f09b2950fff74c9d923.jpg",
+            "class_name": "Plan"
+          }
+        ],
+        "house": {
+          "floors": 9
+        },
+        "trade_in": false,
+        "duplicates_offer_count": 0,
+        "legal_options": {
+          "is_owner": false,
+          "is_agent_owner_approved": true
+        }
+      }
+    ]
+  }
+}
